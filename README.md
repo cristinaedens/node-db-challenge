@@ -40,11 +40,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+•it defines and manipulates data based on structured query language.
+
 - [ ] Why do tables need a `primary key`?
+
+•Each database table needs a primary key because it ensures row-level accessibility
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+•Foreign Key
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+you would need an intermidiate table so you can join the tables.
 
 ## Minimum Viable Product
 
